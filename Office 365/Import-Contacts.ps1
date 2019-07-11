@@ -42,8 +42,6 @@ $ContactCSV = Import-Csv -Path ''
 
 # Distribution lists to add to
 $DistList = @(
-    <#'DG_AllStaff',
-    'DG_AllStaff_Safety'#>
 )
 
 # Import contacts into Office 365
